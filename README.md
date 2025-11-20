@@ -20,7 +20,7 @@ I’m passionate about turning data into insights, building predictive models, a
 ### **Languages**
 - Python 🐍  
 - SQL  
-- R (beginner)
+- R
 
 ### **Data Science & ML**
 - Pandas • NumPy  
@@ -60,7 +60,7 @@ A detailed exploratory data analysis of Netflix content.
 Includes data cleaning, visualization, and insights into trends such as most common genres, release patterns, and country-level contributions.
 
 🔹 **[Phase 1 Project – Global Superstore Data Analysis](https://github.com/Vincent-Muteti/Phase1-Project)**  
-Performed data analysis on the Global Superstore dataset.  
+Performed data analysis on the Global Aviation Accidents Dataset.  
 Covers data wrangling, sales performance insights, profitability analysis, and actionable business intelligence visualizations.
 
 ---

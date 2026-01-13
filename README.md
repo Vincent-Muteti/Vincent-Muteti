@@ -74,7 +74,7 @@ Covers data wrangling, sales performance insights, profitability analysis, and a
   <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/vincent-muteti-cbs-401b2a280" target="_blank">
+<a href="www.linkedin.com/in/vincent-muteti-401b2a280" target="_blank">
   <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" />
 </a>
 

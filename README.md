@@ -11,7 +11,7 @@ I’m passionate about turning data into insights, building predictive models, a
 -  I’m open to collaborating on **Data Science, ML, AI, and Python-based projects**  
 -  Ask me about **Python, Pandas, NumPy, Scikit-learn, TensorFlow, SQL, Data Visualization**  
 -  Goal: Build end-to-end **ML pipelines** & deploy production-ready AI systems  
--  Fun fact: I can explain ML models using food analogies 😄  
+-  Fun fact: I can explain ML models using food analogies 
 
 ---
 
